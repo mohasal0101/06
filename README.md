@@ -14,3 +14,12 @@
 
 
 ###  [Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+1.
+- Greater efficiency. It is a common misconception that pair programming takes a lot longer and is less efficient. ...<br><br>
+- Engaged collaboration. ...<br>
+- Learning from fellow students. ...<br>
+- Social skills. ...<br>
+- Job interview readiness. ...<br>
+
+2. Learning from fellow students<br>
+3. ***Pair programming is an agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently.***
