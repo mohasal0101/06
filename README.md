@@ -21,5 +21,11 @@
 - Social skills. ...<br>
 - Job interview readiness. ...<br>
 
-2. Learning from fellow students<br>
+2. Learning from fellow students<br> <br>
 3. ***Pair programming is an agile software development technique in which two programmers work together at one workstation. One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently.***
+
+## Bookmark and Review
+
+- [Geocoding API Docs](https://locationiq.com/)
+- [Axios docs](https://www.npmjs.com/package/axios)
+- [MDN async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
